@@ -175,6 +175,7 @@
 - [Simon Willison](https://simonwillison.net/)
 - [Soledad Penadés](https://soledadpenades.com/)
 - [Sophie Alpert](https://sophiebits.com/)
+- [Sulayman Bowles](https://sulayman-bowles.dev/writing)
 - [Surya Dantuluri](https://blog.suryad.com/)
 - [Susie Lu](https://susielu.com/)
 - [Tania Rascia](https://www.taniarascia.com/)
